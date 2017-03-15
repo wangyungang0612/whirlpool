@@ -239,7 +239,6 @@
             <!--</LinearLayout>-->
         <!--</LinearLayout>-->
 
-
         <LinearLayout
             android:background="#ff0000"
             android:layout_marginLeft="40dp"
